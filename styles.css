@@ -1,0 +1,10 @@
+body {
+    width: 90% !important;
+    margin: 0 auto !important;
+    margin-top: 1rem !important;
+}
+
+#text {
+    width: 100% !important;
+    height: 50vh !important;
+}
